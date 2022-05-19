@@ -1,0 +1,152 @@
+
+    {
+      "fondo": [
+        {
+          "Fondo": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/fondo%2FAkuma-Stage-Background-Sprite-GIF-Without-Characters-from-Street-Fighter-III-3rd-Strike-Fight-for-the-Future-Arcade-Game-by-Capcom-1999.gif?alt=media&token=b5e070d6-9279-4cd2-8ebb-fdb3bb9a5c3d",
+          "nombre": "akuma stage"
+        },
+        {
+          "Fondo": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/fondo%2FChun-Li-Stage-Background-Sprite-GIF-Without-Characters-from-Street-Fighter-III-3rd-Strike-Fight-for-the-Future-Arcade-Game-by-Capcom-1999.gif?alt=media&token=25722e40-5a6b-4ac4-9f72-5ed68a868d77",
+          "nombre": "chunli stage"
+        },
+        {
+          "Fondo": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/fondo%2FChun-Li-Stage-Background-Sprite-GIF-Without-Characters-from-Street-Fighter-III-3rd-Strike-Fight-for-the-Future-Arcade-Game-by-Capcom-1999.gif?alt=media&token=25722e40-5a6b-4ac4-9f72-5ed68a868d77",
+          "nombre": "dudley stage"
+        },
+        {
+          "Fondo": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/fondo%2FMakoto-Stage-Background-Sprite-GIF-Without-Characters-from-Street-Fighter-III-3rd-Strike-Fight-for-the-Future-Arcade-Game-by-Capcom-1999.gif?alt=media&token=2b30b592-6477-4ebc-930f-9cde271c452e",
+          "nombre": "Makoto stage"
+        },
+        {
+          "Fondo": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/fondo%2FRyu-Stage-Background-Sprite-GIF-Without-Characters-from-Street-Fighter-III-3rd-Strike-Fight-for-the-Future-Arcade-Game-by-Capcom-1999.gif?alt=media&token=9aedd826-5fbe-4d97-997e-085425bfaff2",
+          "nombre": "ryu stage"
+        },
+        {
+          "Fondo": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/fondo%2FUrien-Stage-Background-Sprite-GIF-Without-Characters-from-Street-Fighter-III-3rd-Strike-Fight-for-the-Future-Arcade-Game-by-Capcom-1999.gif?alt=media&token=5e7809f3-7c0e-417e-9d36-973448abbfed",
+          "nombre": "urien stage"
+        }
+      ],
+      "personajes": [
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FAkuma-SF3TS-Icon.png?alt=media&token=bfcb8425-a89a-469a-8638-23b53b74ea8b",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FAkuma-SF32I-Stance.gif?alt=media&token=54b3a5d4-66b9-4a5b-afb1-5de21998a1f8",
+          "name": "Akuma",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FAkuma-SF3TS-Name.png?alt=media&token=4234d317-7c2d-4230-a8dc-513f565f98f6"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FAlex-SF3TS-Icon.png?alt=media&token=2fdd1ddf-91bc-4f22-9100-e1d4c9189e4b",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FAlex-SF3-Stance.gif?alt=media&token=4c3ce55d-ebb5-4357-8064-58fe4b628d66",
+          "name": "Alex",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FAlex-SF3TS-Name.png?alt=media&token=06f20a4d-aff1-43a2-9ed8-51b83d8a43e5"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FChun-Li-SF3TS-Icon.png?alt=media&token=9e9d2771-cd87-491a-80ce-2da93412c005",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FChun-Li-SF3TS-Stance.gif?alt=media&token=8f3de2ee-bd9b-4a4d-8d04-bbe52054d9fd",
+          "name": "Chun Li",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FChun-Li-SF3TS-Name.png?alt=media&token=4940afcf-e33a-4e2a-bc53-a37a2f4a176a"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FDudley-SF3TS-Icon.png?alt=media&token=f09a5c8e-7758-44d5-8b2b-2e57a046a608",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FDudley-SF3-Stance.gif?alt=media&token=2553147c-fba6-41d7-b787-f8caab7985a5",
+          "name": "Dudley",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FDudley-SF3TS-Name.png?alt=media&token=af148d91-0d63-4951-b5b3-1b753d13a411"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FElena-SF3TS-Icon.png?alt=media&token=9772f64f-8dcc-4639-bd0f-6c96d425965e",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FElena-SF3-Stance.gif?alt=media&token=d5a1bb51-f564-44e1-ba6f-c07c51fdd187",
+          "name": "Elena",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FElena-SF3TS-Name.png?alt=media&token=4a8748cf-3472-4a37-b0ec-87e3167ae108"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FGill-SF3TS-Icon.png?alt=media&token=4c0d9169-720a-4ebc-a5a0-2abe38cd2396",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FHugo-SF3TS-Icon.png?alt=media&token=668559e2-e863-4ca9-a498-2e2f8c6e8981",
+          "name": "Gill",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FGill-SF3TS-Name.png?alt=media&token=4cfcef5a-63a4-41ac-8140-e2ac4b73dfe3"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FHugo-SF3TS-Icon.png?alt=media&token=668559e2-e863-4ca9-a498-2e2f8c6e8981",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FHugo-SF32I-Stance.gif?alt=media&token=139d75ae-d450-4507-8c23-a554bb6c8a39",
+          "name": "Hugo",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FHugo-SF3TS-Name.png?alt=media&token=9418eb83-8e52-47ec-ba63-1524dca8a447"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FIbuki-SF3TS-Icon.png?alt=media&token=b45ee49f-904c-40e8-8fc7-d72b2e8613e0",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FIbuki-SF3-Stance.gif?alt=media&token=a5de1e4e-798d-4354-ae35-2c91c7ef2b3d",
+          "name": "Ibuki",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FIbuki-SF3TS-Name.png?alt=media&token=93c1ea94-e81e-49ac-89be-4e851e0b8615"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FKen-SF3TS-Icon.png?alt=media&token=638c3559-b9ff-468c-8daa-8d3ff71521a0",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FKen-SF3-Stance.gif?alt=media&token=216f6249-2677-4926-9c9c-1449bea10656",
+          "name": "Ken",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FKen-SF3TS-Name.png?alt=media&token=b5f70da7-5105-4cb8-bf46-8388d81df221"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FMakoto-SF3TS-Icon.png?alt=media&token=56cfbde5-4007-4371-9fab-e8c355a36772",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FMakoto-SF3TS-Stance.gif?alt=media&token=73ff879c-a73f-4926-b79f-4902f2b86d47",
+          "name": "Makoto",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FMakoto-SF3TS-Name.png?alt=media&token=4571fc0e-2505-48a3-94ba-c2e54aeaef89"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FNecro-SF3TS-Icon.png?alt=media&token=e3a332da-afbb-4c4f-986e-ff865e10466d",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FNecro-SF3-Stance.gif?alt=media&token=a75d0788-ea57-4ea7-b4cc-dee6b1c569d6",
+          "name": "Necro",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FNecro-SF3TS-Name.png?alt=media&token=22069c69-9819-4dda-9878-d405e908f002"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FOro-SF3TS-Icon.png?alt=media&token=e2eb5291-1231-48ca-8fea-88e10295e6f8",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FOro-SF3-Stance.gif?alt=media&token=bb2c0e32-d7e9-4271-94c0-2a21eb4f6040",
+          "name": "Oro",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FOro-SF3TS-Name.png?alt=media&token=8e81578f-b72b-4d33-b7e5-91beacc9c1a2"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FQ-SF3TS-Icon.png?alt=media&token=e3ccbf8e-994b-4686-a27b-f6d1737d2282",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FQ-SF3TS-Stance.gif?alt=media&token=9389c1d7-682a-4fdf-a2ad-fab80d45b827",
+          "name": "Q",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FQ-SF3TS-Name.png?alt=media&token=4ef7f02e-27a6-41bc-805c-24dbb2f98b69"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FRemy-SF3TS-Icon.png?alt=media&token=8112c547-3da8-4a0e-859b-67ae71c48b52",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FRemy-SF3TS-Stance.gif?alt=media&token=dc0ecb53-0fbe-4a2b-a18e-ff0d7674e359",
+          "name": "Remy",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FRemy-SF3TS-Name.png?alt=media&token=9b2c9cc2-77d4-4afe-8253-a132c225762d"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FRyu-SF3TS-Icon.png?alt=media&token=4ba58538-466f-4ac7-a231-ef54066d23f7",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FRyu-SF3-Stance.gif?alt=media&token=e3f3023f-4135-4de6-801c-bf4e1e0d39f3",
+          "name": "Ryu",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FRyu-SF3TS-Name.png?alt=media&token=a9628a25-c74e-47c7-98c9-5497cd2acb17"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FSean-SF3TS-Icon.png?alt=media&token=811dab6f-1aa0-484c-8e75-b053953c7e94",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FSean-SF3-Stance.gif?alt=media&token=3640885b-420f-437f-8297-40dacf521cb7",
+          "name": "Sean",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FSean-SF3TS-Name.png?alt=media&token=aea66fbc-0880-4afa-a19f-38646d5da44b"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FTwelve-SF3TS-Icon.png?alt=media&token=2c8a6790-16e7-49f8-8091-5e6cead4a883",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FTwelve-SF3TS-Stance.gif?alt=media&token=05b9ffbd-ff03-4673-bbb4-c83b4cceca41",
+          "name": "Twelve",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FTwelve-SF3TS-Name.png?alt=media&token=3a96b040-6178-4d20-bf76-7c2060776774"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FUrien-SF3TS-Icon.png?alt=media&token=6a93c348-0a6b-418b-9186-c7170b07461c",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FUrien-SF32I-Stance.gif?alt=media&token=c725f992-013a-423f-85f5-7533a7032fe6",
+          "name": "Urien",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FUrien-SF3TS-Name.png?alt=media&token=78416cef-f832-459c-98f0-c667a64cb611"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FYang-SF3TS-Icon.png?alt=media&token=ad8d070f-06c2-4f2f-9287-86a9c18908eb",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FYang-SF3TS-Stance.gif?alt=media&token=9363691a-a7d8-4ec0-abcb-02fd32ba0f4b",
+          "name": "Yang",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FYang-SF3TS-Name.png?alt=media&token=d28800f4-1bb0-4470-b8f2-777a2b475c0b"
+        },
+        {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/icon%2FYang-SF3TS-Icon.png?alt=media&token=ad8d070f-06c2-4f2f-9287-86a9c18908eb",
+          "idle": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/idle%2FYun-SF3TS-Stance.gif?alt=media&token=021208ed-c185-406a-ac87-f87a925d52a8",
+          "name": "Yun",
+          "nombre": "https://firebasestorage.googleapis.com/v0/b/programacion1-c737c.appspot.com/o/nombre%2FYun-SF3TS-Name.png?alt=media&token=87d02b6a-34a5-4980-b0be-1504946fa822"
+        }
+      ]
+    }
+  
